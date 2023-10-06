@@ -3,10 +3,10 @@ Here`s my first project, made entirely by me, the images, icons, etc..
 
 
 This app was made only for fun, and to exercise my skills with Xcode and the Swift language!
-Macabre-8-ball is a different version of the Magic one, that changes the original answers to creepy ones! It`s very funny for people who are bored, or indecised xD
+Macabre-8-ball is a different version of the Magic one, that changes the original answers to creepy ones! It`s very funny for people who are bored, or undecided xD
 
 
-This project do not follow any pattern, even because it`s too simple!
+The project does not follow any pattern, because it`s too simple!
 
 
 Using the project!
